@@ -1,2 +1,0 @@
-# portfolio
-npm run deploy
